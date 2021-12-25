@@ -1,3 +1,3 @@
-# ATM-App
-
-This is a basic ATM App that will deposit and reduce cash with a submit button. This app is bare bone and will need to be refactored later.
+This is an WEB ATM app.
+The basic function is to deposit and withdraw money from the account.
+The submit button will keep the user from with drawing insufficiant funds.
